@@ -13,7 +13,6 @@
 * --package               顶包
 * ---module               模块（package包下的模块）
 * ----__init__.py         模块初始化
-* ----test_selenium.py    模块
 * -static                 截图保存图片路径
 * -logging_init.py        logging 初始化(日志初始化配置，每次触发写入本地文件和控制台)
 * -report                 allure生成json、html报告存放位置
